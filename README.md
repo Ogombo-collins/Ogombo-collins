@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ogombo-collins
-- 👀 I’m interested in data analytics and data science
+- 👀 I’m interested in Data Analytics and Data Science
 - 🌱 I’m currently learning Python,R and data viz tools(Power BI,Tableu and Looker)
 - 💞️ I’m looking to collaborate on Data Analytics  Projects
 - 📫 How to reach me via email;ogombocollins22@outlook.com
