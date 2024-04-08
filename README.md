@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ogombo-collins
-- 👀 I’m interested in Data Analytics and Data Science
+- 👀 I have stepped into Data Analytics and Data Science
 - 🌱 I’m currently proficient in Excel (Power Query), Google Sheets,  Python, R, SQL, and data viz tools(Power BI, Tableau and Looker)
-- 💞️ I’m looking to collaborate on Data Analytics  Projects
+- 💞️ I’m looking to collaborate on Data Analytics and Business Intelligence Projects
 - 📫 How to reach me via email;ogombocollins22@outlook.com
 
 <!---
